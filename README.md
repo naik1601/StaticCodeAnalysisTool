@@ -1,1 +1,1 @@
-# StaticCodeAnalysisTool was the project for my object oriented 
+# StaticCodeAnalysisTool was the project for my object oriented language
